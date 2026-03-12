@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18986295.svg)](https://doi.org/10.5281/zenodo.18986295)
+
 # Lens Extraction: Decomposed Evaluation Through Practitioner-Derived Criteria
 
 *Why "Is This Good?" Fails and What to Ask Instead*
