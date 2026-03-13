@@ -1,10 +1,12 @@
+# Lens Extraction
+### Decomposed Evaluation Through Practitioner-Derived Criteria
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18986295.svg)](https://doi.org/10.5281/zenodo.18986295)
 
-# Lens Extraction: Decomposed Evaluation Through Practitioner-Derived Criteria
 
-*Why "Is This Good?" Fails and What to Ask Instead*
-
-**Peter Salvato** Design Engineer | petersalvato.com March 2026
+**Peter Salvato**
+Design Engineer | [petersalvato.com](https://petersalvato.com)
+March 2026
 
 ---
 
@@ -40,7 +42,7 @@ The question is how to reconstruct that evaluative function in AI-mediated work.
 
 ### 3.1 LLM-as-Judge
 
-The dominant paradigm for AI evaluation is LLM-as-judge: a single model scores output against a rubric. The rubric may be generic ("rate creativity, coherence, and relevance on a scale of 1-5") or domain-specific. The model applies all criteria in a single pass.
+The dominant approach to AI evaluation is LLM-as-judge: a single model scores output against a rubric. The rubric may be generic ("rate creativity, coherence, and relevance on a scale of 1-5") or domain-specific. The model applies all criteria in a single pass.
 
 The architecture has the same flaw as my initial compound prompt. The model blends criteria. A piece of work that is structurally excellent but narratively weak receives a middling score that obscures both the strength and the weakness. The evaluative function is flattened.
 
@@ -194,3 +196,15 @@ Salvato, P. (2026). Input Inversion: Why Unstructured Human Thinking Produces Be
 Salvato, P. (2026). A Different Kind of Harness: AI as Cognitive Prosthetic Through Mutual Accommodation. petersalvato.com.
 
 Salvato, P. (2026). Semantic Flattening and the Case for Human-Marked Importance in AI Memory. petersalvato.com.
+
+---
+
+## License
+
+This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to share and adapt this material for any purpose, including commercially, with attribution.
+
+---
+
+*Peter Salvato is a design engineer based in Fort Lauderdale, FL. He studied Visual Communication at the School of Visual Arts, taught special education in Brooklyn, NY, and spent twelve years building the front end of an enterprise recruiting platform. His AI governance work applies twenty-five years of practice across construction, print production, pedagogy, enterprise software, and brand systems to the question of what AI systems actually need to produce quality output. His work is published at [petersalvato.com](https://petersalvato.com).*
