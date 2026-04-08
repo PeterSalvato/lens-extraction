@@ -17,7 +17,13 @@ March 2026
 
 ## Abstract
 
-AI evaluation of creative and professional work typically operates in one of two modes: single-model scoring ("rate this 1-10") or rubric-based assessment against generic criteria. Both flatten the evaluative function by treating quality as a single dimension. This paper proposes lens extraction, a protocol for studying a practitioner's body of work, identifying the evaluative framework underneath their visible decisions, and codifying it as testable criteria that an AI can execute independently. Multiple extracted lenses run in parallel across independent evaluation dimensions. Where they agree is signal. Where they disagree is where the maker's judgment is required. The protocol is demonstrated through three years of applied practice using lenses extracted from real practitioners (Vignelli, Bierut, Millman, Victore, Rams, Shaw, Muller-Brockmann, Draplin) deployed on a production site. The paper situates lens extraction within the accommodation design framework (Salvato, 2026): compound evaluation degrades in AI systems the same way compound instructions degrade in special education classrooms. The fix is the same. Decompose.
+Lens extraction begins as a compositional act, not an evaluative one. Once the practitioner's raw thinking is out — unfiltered, uncompressed, unstructured — the first decision is the lens array: a closed set of evaluative frameworks extracted from real practitioners whose judgment they have chosen to honor. The unstructured source material reveals the shape of what is actually there. The array is the first act of authorship on that material. It declares what the work is committed to being before any generative work proceeds. Evaluation, when it comes, is the mechanism for staying true to that declaration.
+
+This paper proposes lens extraction as a protocol for studying a practitioner's body of work, identifying the evaluative framework underneath their visible decisions, and codifying it as testable criteria that an AI can execute independently. Multiple extracted lenses run in parallel across independent evaluation dimensions. Where they agree is signal. Where they disagree is a decision point for the maker, and where persistent disagreement appears across multiple passes, a potential values conflict in the declaration itself.
+
+The paper distinguishes compositional lens arrays from conventional persona work. Traditional personas ask whether different user types can access a product. Compositional lens arrays declare what the work must embody. The lens is not a user to be served. It is a commitment to be honored.
+
+The protocol is demonstrated through three years of applied practice using lenses extracted from real practitioners (Vignelli, Bierut, Millman, Victore, Rams, Shaw, Muller-Brockmann, Draplin) deployed on a production site, and through the development of a practitioner-specific methodology curriculum where the persona stack specified what the curriculum had to be before any content was written. The paper situates lens extraction within the accommodation design framework (Salvato, 2026): compound evaluation degrades in AI systems the same way compound instructions degrade in special education classrooms. Decompose the evaluative function. Staff each dimension independently. Let the maker resolve the conflicts.
 
 ---
 
@@ -119,6 +125,55 @@ A single lens produces imitation. If you extract Vignelli and apply only Vignell
 That tension is where the real decisions happen. Over time, the way you resolve those conflicts page after page is what makes the work yours. The system identifies where the disagreements are. The maker resolves them. That's the accommodation: the system does the parallel evaluation the maker can't hold simultaneously, and the maker provides the judgment the system can't perform.
 
 The IEP parallel is direct. Individualized criteria, independent assessment, the practitioner resolving conflicts between goals that measure different things. A student's IEP has multiple goals that sometimes conflict (build independence vs. provide support). The teacher navigates the tension. The framework holds both goals without pretending they are the same dimension.
+
+
+### 5.4 The Lens Array as Values Declaration
+
+The paper to this point has described lens extraction as an evaluative tool. That framing is accurate but incomplete. It describes the mechanism without describing the more fundamental use.
+
+When I build a lens array for a project, I build it immediately after the unstructured source material is out. I can see the shape of what I'm actually working with. The lens array is the first decision I make in response to that shape: which voices do I want in the room, which values will govern every decision I make, which practitioners' judgment I have chosen to honor. The array is not derived from evaluation needs. It is the first act of authorship on the raw material that input inversion produced.
+
+The evaluation use, when it comes, is the mechanism for staying true to that declaration. Running the array against work-in-progress tests whether the work is holding to the values I committed to at the outset. The sequence matters: declaration first, evaluation in service of the declaration.
+
+This distinction resolves something the field has not clearly articulated.
+
+**Designed for vs. designed to be**
+
+Traditional persona work operates in an evaluative register. You build personas representing different user types, then ask whether each persona can access the product. The question is pass/fail: does this reach the user I defined? The persona is an instrument for measuring reach.
+
+The lens array works differently. The lenses I select do not represent an audience I am trying to reach. They represent the values the work is designed to embody. When I include a Victore lens, I am not asking whether fiercely-opinionated practitioners will be served. I am declaring that fierce presence is a value the work must hold. The Victore lens is not a user. It is a commitment.
+
+The difference in practice: a product designed for a persona can succeed if that persona can use it. A product designed to embody a set of values succeeds only if the values are actually present in the work. The first is about access. The second is about integrity.
+
+I have not found this distinction made explicitly in the UX or product literature. The persona framework was built for the evaluative register. The compositional use, building an array as a declaration of what the work must be before a user ever encounters it, is something practitioners do without a name for it.
+
+**The array as a closed peer set**
+
+The lens array is a closed peer set. Every lens I include carries equal weight. There is no primary persona, no secondary persona, no hierarchy of importance. The Victore lens does not outrank the Vignelli lens. The Millman lens does not defer to the Rams lens.
+
+This has a specific consequence. The intersection of what satisfies all lenses simultaneously defines the work. A decision that satisfies Vignelli but violates Victore is not an acceptable decision. The work must find the resolution that holds both. If no resolution exists, the array itself needs examination. Either a lens was chosen carelessly, or the project has an unresolved values conflict that needs to surface before the work proceeds.
+
+Adding or removing a lens is not a minor adjustment. It changes what the work is required to be. Including a Draplin lens commits the work to having a human with strong opinions visibly present. Removing it releases that commitment. The closed peer set is not casual. It is the specification.
+
+**The persona stack version**
+
+The same logic applies to persona stacks. I built the first persona stack for Joinery, the methodology school, using four practitioner types: a brand designer, a novelist, a copywriter, and a creative director. The question I asked was not "can each of these people access the curriculum?" It was "what must the curriculum be if it is to hold all four of these people simultaneously?"
+
+The personas were not derived from user research. They were composed before the curriculum existed. I was declaring the stack of minds the work would be designed to satisfy: not as users to be served, but as peers whose presence in the room would shape every decision about what the work should be.
+
+The distinction from conventional persona work is structural. In conventional use, personas are evaluative instruments. You derive them from data, you use them to test reach, you update them as the audience shifts. In compositional use, personas are a values declaration. You build them as an act of authorship, you use them to specify what the work must be, and you hold them stable precisely because they represent a commitment, not a hypothesis.
+
+The intersection of what satisfies all four personas simultaneously was not obvious. It required finding the framing, the methodology, and the specific language that a novelist, a brand designer, a copywriter, and a creative director could each recognize as directly relevant to their practice. That specification work, finding the thing that holds all four, is what produced the positioning. The persona stack was not a research artifact. It was a compositional constraint that generated the work.
+
+**Implications for the evaluation function**
+
+This reframes what lens-based evaluation is doing.
+
+When I run the lens array against work-in-progress, I am checking whether the work is honoring a commitment I made at the start of the project. The evaluation is not asking "is this good?" in the abstract. It is asking "is this still holding to what I said it would be?"
+
+The divergence case is different in this frame. When two lenses disagree, the question is not just "where does my judgment matter?" It is "is this values conflict resolvable within the project as I've defined it, or does the array need examination?" A persistent divergence between two lenses on every pass is a signal that the values they represent may be incompatible within the current project definition. That is different from a single divergence on a single pass, which is just a decision point.
+
+The maker's job in this frame is not only to resolve individual disagreements between lenses. It is to maintain fidelity to the values declared at the outset, and to recognize when a pattern of divergence indicates a problem with the declaration itself.
 
 
 ## 6. Applied Evidence
